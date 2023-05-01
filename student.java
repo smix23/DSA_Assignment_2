@@ -1,4 +1,4 @@
-package a2q10.school;
+package school;
 
 import java.util.Scanner;
 
