@@ -1,4 +1,4 @@
-package a2q10.sports;
+package sports;
 
 public interface sport
 {
