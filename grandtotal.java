@@ -1,8 +1,7 @@
-package a2q10;
 import java.util.Scanner;
 
-import a2q10.school.test;
-import a2q10.sports.sport;
+import school.test;
+import sports.sport;
 
 public class grandtotal implements sport 
 {
