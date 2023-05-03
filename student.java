@@ -1,3 +1,5 @@
+// a2q10 part-1
+
 package school;
 
 import java.util.Scanner;
